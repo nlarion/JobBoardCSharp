@@ -1,6 +1,7 @@
 using Nancy;
 using JobBoard.Objects;
 using System.Collections.Generic;
+using JobBoard.Contacts;
 
 namespace JobBoard
 {
